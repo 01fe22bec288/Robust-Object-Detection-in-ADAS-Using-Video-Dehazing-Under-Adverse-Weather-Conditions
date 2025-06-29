@@ -1,5 +1,3 @@
-# Robust-Object-Detection-in-ADAS-Using-Video-Dehazing-Under-Adverse-Weather-Conditions
-
 # 🚗 Robust Object Detection in ADAS Using Video Dehazing Under Adverse Weather Conditions
 
 This repository contains the code, datasets, and documentation for a deep learning-based Advanced Driver Assistance System (ADAS) that improves object detection under low-visibility conditions such as haze, fog, and rain. It combines video dehazing using LightClearNet with real-time object detection using YOLOv11.
@@ -120,3 +118,9 @@ Prof. Rajeshwari K, Department of ECE, KLE Technological University.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## PPT link
+https://docs.google.com/presentation/d/19gaH1_juh7pDMrI6WWIfZb_4Y9M2yWWN/edit?usp=sharing&ouid=109979185302828264843&rtpof=true&sd=true
+
+## POSTER link
+https://docs.google.com/presentation/d/13kwQV4avBsmCGBgnclFPlQrOSmXA1G01/edit?usp=sharing&ouid=109979185302828264843&rtpof=true&sd=true
