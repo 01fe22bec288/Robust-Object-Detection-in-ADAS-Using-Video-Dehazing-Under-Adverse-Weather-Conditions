@@ -53,12 +53,21 @@ Develop a deep learning-based system that dehazes/enhances images and videos whi
 
 ## 📊 Results
 
-| Model          | PSNR (dB) | SSIM   | mAP@0.5 |
-|----------------|-----------|--------|---------|
-| LightClearNet  | 21.17     | 0.852  | —       |
-| Our Project    | 28.08     | 0.632  | 0.6872  |
+| Model          | PSNR (dB) | SSIM   | 
+|----------------|-----------|--------|
+| LightClearNet  | 21.17     | 0.852  | 
+| Our Project    | 28.08     | 0.632  | 
 
 Detection accuracy improved by **51.94%** over hazy inputs.
+
+### Evaluation Metrics of YOVO V11:
+
+❏	Hazy Video mAP@0.5: 0.4523
+
+❏	Dehazed Video	mAP@0.5: 0.6872
+
+❏	Detection Improvement: 0.2349 (51.94%)
+
 
 ---
 
